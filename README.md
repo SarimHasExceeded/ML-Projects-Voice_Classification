@@ -20,14 +20,14 @@ This database was created to identify a voice as male or female, based upon acou
 • mode: mode frequency<br>
 • centroid: frequency centroid (see specprop)<br>
 • peakf: peak frequency (frequency with highest energy)<br>
-• meanfun: average of fundamental frequency measured across acoustic signal
-• minfun: minimum fundamental frequency measured across acoustic signal
-• maxfun: maximum fundamental frequency measured across acoustic signal
-• meandom: average of dominant frequency measured across acoustic signal
-• mindom: minimum of dominant frequency measured across acoustic signal
-• maxdom: maximum of dominant frequency measured across acoustic signal
-• dfrange: range of dominant frequency measured across acoustic signal
-• modindx: modulation index. Calculated as the accumulated absolute difference
-• between adjacent measurements of fundamental frequencies divided by the
-• frequency range
-• label: male or female
+• meanfun: average of fundamental frequency measured across acoustic signal<br>
+• minfun: minimum fundamental frequency measured across acoustic signal<br>
+• maxfun: maximum fundamental frequency measured across acoustic signal<br>
+• meandom: average of dominant frequency measured across acoustic signal<br>
+• mindom: minimum of dominant frequency measured across acoustic signal<br>
+• maxdom: maximum of dominant frequency measured across acoustic signal<br>
+• dfrange: range of dominant frequency measured across acoustic signal<br>
+• modindx: modulation index. Calculated as the accumulated absolute difference<br>
+• between adjacent measurements of fundamental frequencies divided by the<br>
+• frequency range<br>
+• label: male or female<br>
