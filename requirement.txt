@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+gunicorn==20.1.0
+uvloop
+httptools
