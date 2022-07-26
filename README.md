@@ -31,3 +31,17 @@ This database was created to identify a voice as male or female, based upon acou
 • between adjacent measurements of fundamental frequencies divided by the<br>
 • frequency range<br>
 • label: male or female<br>
+
+## Purpose
+The purpose of this project is to understand the concept of Data Analysis and Visualization Modlues. Also to build the mindset for applying machine learning algorithms and deploy them using *FastAPI*.
+
+## Important Links
+[Python Docs](https://docs.python.org/3/)<br>
+[Pandas Documentaion](https://pandas.pydata.org/)<br>
+[Numpy Documentaion](https://numpy.org/)<br>
+[Scikit Learn Documentation](https://scikit-learn.org/0.21/documentation.html)<br>
+[Matplotlib User Guide](https://matplotlib.org/stable/users/index.html)<br>
+[Seaborn](https://seaborn.pydata.org/)<br>
+[FastAPI Tutorial](https://fastapi.tiangolo.com/tutorial/)<br>
+[Uvicorn Deployment](https://www.uvicorn.org/deployment/)<br>
+[Pydantic](https://pydantic-docs.helpmanual.io/usage/models/)
