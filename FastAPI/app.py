@@ -29,7 +29,7 @@ class attributes(BaseModel):
 
 app = FastAPI()
 
-pickle_in = open('/home/sarim/Desktop/Code/Projects/Notebook/Data Science Internship/Voice_Classification/final_model.pkl','rb')
+pickle_in = open('final_model.pkl','rb')
 model = pickle.load(pickle_in)
 
 
